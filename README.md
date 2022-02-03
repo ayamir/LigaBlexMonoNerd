@@ -4,7 +4,12 @@ IBM Plex Mono Nerd Fonts with Ligatures.
 
      
 
-![2021-11-29_14-59](https://user-images.githubusercontent.com/61657399/143822330-094d1bc3-ab84-4c58-8464-01490b5a23e0.png)
+![show](./assets/show.png)
 
-+ terminal: wezterm
-+ font name: BlexMono Nerd Font
+![codeshot](./assets/code_shot.png)
+
+- terminal: [st](https://github.com/siduck/st)
+
+- neovim: [nvimdots](https://github.com/ayamir/nvimdots)
+
+- font name: BlexMono Nerd Font
